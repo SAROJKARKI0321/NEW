@@ -15,5 +15,6 @@ public class GreetingApp {
 
         // Close the scanner
         scanner.close();
+        System.out.println("this is the new changes that i wanted to get");
     }
 }
